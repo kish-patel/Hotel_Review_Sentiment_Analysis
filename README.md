@@ -7,4 +7,4 @@ Using the Map-Reduce model I extracted the words from the reviews and calculated
 
 ![](HotelReviewSA-Results.png)
 
-[Data Set Link](https://www.cs.cmu.edu/~jiweil/html/hotel-review.html)
+[Link to Dataset](https://www.cs.cmu.edu/~jiweil/html/hotel-review.html)
